@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch sumnumber3",
+            "request": "launch",
+            "mainClass": "sumnumber3",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumnumber2",
+            "request": "launch",
+            "mainClass": "sumnumber2",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumnumber",
+            "request": "launch",
+            "mainClass": "sumnumber",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedloop",
+            "request": "launch",
+            "mainClass": "nestedloop",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch timestable",
+            "request": "launch",
+            "mainClass": "timestable",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperator3",
+            "request": "launch",
+            "mainClass": "LogicalOperator3",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperators2",
+            "request": "launch",
+            "mainClass": "LogicalOperators2",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperators",
+            "request": "launch",
+            "mainClass": "LogicalOperators",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Circlecalculator",
+            "request": "launch",
+            "mainClass": "Circlecalculator",
+            "projectName": "Javaproject_5be6231c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Squarecalculator",
+            "request": "launch",
+            "mainClass": "Squarecalculator",
+            "projectName": "Javaproject_5be6231c"
+        }
+    ]
+}
